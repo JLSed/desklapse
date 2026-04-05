@@ -1,0 +1,46 @@
+# ─── Python ───────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ─── Virtual Environments ─────────────────────────
+venv/
+.venv/
+ENV/
+env/
+
+# ─── IDE / Editor ─────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── DeskLapse Specific ──────────────────────────
+captures/
+bin/
+*.mp4
+*.avi
+*.mkv
+config.json
+DeskLapse.spec
+
+# ─── FFmpeg temporary files ───────────────────────
+_ffmpeg_filelist.txt
+
+# ─── OS ───────────────────────────────────────────
+desktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+
+
+# ─── Temp ─────
+CONTRIBUTING.md
